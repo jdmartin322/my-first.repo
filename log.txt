@@ -1,0 +1,23 @@
+commit a6053f27f46dce03fa553314e83ac1603800e5b0
+Author: jdmartin322 <jdonald322@gmail.com>
+Date:   Wed Apr 15 11:32:47 2020 +0200
+
+    added gitignore
+
+commit 14a3fa9b9d737f48d478e7756d984cf7fb207e57
+Author: jdmartin322 <jdonald322@gmail.com>
+Date:   Wed Apr 15 11:16:05 2020 +0200
+
+    added gitignore
+
+commit cc7a723de3012c12d05355ed44a8d2ba49bac0ad
+Author: jdmartin322 <jdonald322@gmail.com>
+Date:   Wed Apr 15 10:30:26 2020 +0200
+
+    added two files
+
+commit e34f7f6ce0773122f07b42edc6b3fcb12959c899
+Author: jdmartin322 <jdonald322@gmail.com>
+Date:   Wed Apr 15 10:23:04 2020 +0200
+
+    added readme.txt
